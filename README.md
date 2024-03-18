@@ -16,6 +16,6 @@ Các thành viên:
 
 - Python 3: https://www.python.org/downloads/
 
-- ChromeDriver: https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win64/chromedriver-win64.zip
+- ChromeDriver: https://googlechromelabs.github.io/chrome-for-testing/#stable
 
 - libraries: numpy, selenium, pandas, csv, nltk
