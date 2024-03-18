@@ -14,6 +14,8 @@ Các thành viên:
 
 # Prerequisites:
 
-- Python 3, Chromedriver
+- Python 3: https://www.python.org/downloads/
+
+- ChromeDriver: https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win64/chromedriver-win64.zip
 
 - libraries: numpy, selenium, pandas, csv, nltk
