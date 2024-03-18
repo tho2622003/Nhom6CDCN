@@ -10,6 +10,8 @@ Các thành viên:
 
 - Phạm Đức Trung
 
-* Pre-requisites:
+#Pre-requisites:
+
 - Python 3, Chromedriver
+
 - libraries: numpy, selenium, pandas, csv, nltk
