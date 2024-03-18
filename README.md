@@ -10,7 +10,7 @@ Các thành viên:
 
 - Phạm Đức Trung
 
-#Pre-requisites:
+# Prerequisites:
 
 - Python 3, Chromedriver
 
