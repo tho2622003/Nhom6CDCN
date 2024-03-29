@@ -16,6 +16,4 @@ Các thành viên:
 
 - Python 3: https://www.python.org/downloads/
 
-- ChromeDriver: https://googlechromelabs.github.io/chrome-for-testing/#stable
-
-- libraries: numpy, selenium, pandas, csv, nltk
+- libraries: see requirements.txt
