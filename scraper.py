@@ -14,7 +14,7 @@ with Chrome(options=chrome_options) as driver:
     wait = WebDriverWait(driver, 10)
     driver.get('https://www.youtube.com/watch?v=f_fuHRyQbOc')
 
-    for item in range(10): 
+    for item in range(50): 
         visible = wait.until(EC.visibility_of_element_located((By.TAG_NAME, "body")))
         visible.send_keys(Keys.END)
         time.sleep(3)
@@ -27,5 +27,5 @@ with Chrome(options=chrome_options) as driver:
     d = {'Comment':commentdata}
     pd.set_option('display.max_colwidth', 100)
     df = pd.DataFrame(data = d)
-    df.to_csv('Downloads\\scraper.csv', encoding = 'UTF-16')
+    df.to_csv('scraper.csv', encoding = 'UTF-16')
 
